@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "408050110723",
+    "firebase_url": "https://bluecall-c1209.firebaseio.com",
+    "project_id": "bluecall-c1209",
+    "storage_bucket": "bluecall-c1209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408050110723:android:fe6bb386d0395435399936",
+        "android_client_info": {
+          "package_name": "org.bluecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408050110723-q9fsn5i1omlea3dn1lvafe18djuqp35s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bluecall",
+            "certificate_hash": "f50ae9f46399a66c3868571870b3735162ba12ed"
+          }
+        },
+        {
+          "client_id": "408050110723-k9uemutjvbp9llv3l373ohqbj8p5vomq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bluecall",
+            "certificate_hash": "1983f566c6c6a2391c26d81a70bbc5a58284a62d"
+          }
+        },
+        {
+          "client_id": "408050110723-76diejentrnlu24vr4h1207fsegkbuh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-OgpfLeaHy_NmC0IC4pVhoMJor45WyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408050110723-76diejentrnlu24vr4h1207fsegkbuh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
